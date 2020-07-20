@@ -7,9 +7,14 @@ This system keeps patients information on one single database that can be access
 3. Export the *hospicare.sql* file in the database folder to *phpMyadmin*
 4. Open the admin on apache server. You will find the folder *inforserve*
 
-# Login
+# Login credentials
 Login using the following creditials
 1. Email: jerry@gmail.com
 2. Password: 12345678
 
-![Philadelphia's Magic Gardens. This place was so cool!](screenshots/2.png "Login Inteface")
+![Login Inteface ](screenshots/2.png "Login Inteface")
+![update user profile](screenshots/1.png "update user profile")
+![admin dashboard](screenshots/3.png "admin dashboard")
+![wait for code from sms](screenshots/4.png "wait for code")
+![Patient Information page](screenshots/5.png "Patient Information page")
+
