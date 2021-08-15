@@ -29,4 +29,5 @@ Login using the following creditials
 #### Patient information page
 ![Patient Information page](screenshots/5.png "Patient Information page")
 
-To send the security code mesage t0 your apatients before thier data is accessed, you need to setup an account with Africastalking for the messaging service.
+### THE MESSAGE SERVICE
+To send the security code mesage to your apatients before thier data is accessed, you need to setup an account with Africastalking for the messaging service.
