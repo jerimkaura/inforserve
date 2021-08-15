@@ -12,10 +12,21 @@ Login using the following creditials
 1. Email: `jerry@gmail.com`
 2. Password: `12345678`
 
+### USER INTERFACE SCREENSHOTS
+
+#### Login page
 ![Login Inteface ](screenshots/2.png "Login Inteface")
+
+### Update user profile
 ![update user profile](screenshots/1.png "update user profile")
+
+#### Admin dashborad
 ![admin dashboard](screenshots/3.png "admin dashboard")
+
+#### Code sent
 ![wait for code from sms](screenshots/4.png "wait for code")
+
+#### Patient information page
 ![Patient Information page](screenshots/5.png "Patient Information page")
 
 To send security code mesage t your apatients before thier data is accessed. You need tosetup and account with Africastalking for the messaging service.
