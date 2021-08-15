@@ -17,7 +17,7 @@ Login using the following creditials
 #### Login page
 ![Login Inteface ](screenshots/2.png "Login Inteface")
 
-### Update user profile
+#### Update user profile
 ![update user profile](screenshots/1.png "update user profile")
 
 #### Admin dashborad
@@ -29,4 +29,4 @@ Login using the following creditials
 #### Patient information page
 ![Patient Information page](screenshots/5.png "Patient Information page")
 
-To send security code mesage t your apatients before thier data is accessed. You need tosetup and account with Africastalking for the messaging service.
+To send the security code mesage t0 your apatients before thier data is accessed, you need to setup an account with Africastalking for the messaging service.
