@@ -18,3 +18,4 @@ Login using the following creditials
 ![wait for code from sms](screenshots/4.png "wait for code")
 ![Patient Information page](screenshots/5.png "Patient Information page")
 
+To send security code mesage t your apatients before thier data is accessed. You need tosetup and account with Africastalking for the messaging service.
